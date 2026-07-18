@@ -1,0 +1,6 @@
+{
+  "name": "Kampanye Hidup Minim Sampah",
+  "description": "Sebuah landing page edukatif dan interaktif untuk mengampanyekan gaya hidup minim sampah (zero waste lifestyle) dan keberlanjutan lingkungan (sustainability).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
